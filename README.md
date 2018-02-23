@@ -28,5 +28,21 @@ Social is open source and covered by a standard 2-clause BSD license. See the LI
 
 Social is Free Software licensed under the GNU General Public License.
 
+========================================
+
+PS D:\tools\nodejs\workspace\wfxiaolong-ionic-social-app> ionic info
+
+Your system information:
+
+Cordova CLI: 6.2.0
+Gulp version:  CLI version 3.9.1
+Gulp local:   Local version 3.9.1
+Ionic Framework Version: 1.2.4
+Ionic CLI Version: 1.7.16
+Ionic App Lib Version: 0.7.3
+OS:
+Node Version: v4.4.2
+
+
 
 
